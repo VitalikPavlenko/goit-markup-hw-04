@@ -573,6 +573,10 @@ a {
 }
 /* -------logo--------*/
 
+.footer-left {
+  display: block;
+}
+
 .footer-logo {
   display: block;
   margin-bottom: 20px;
